@@ -7,12 +7,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our app will allow users to create, share, and collect recipes. 
+The app will also allow users to organize these recipes into a meal list and export a grocery list for all required ingredients.
 ### Features
-Include Features here
+User profiles, recipe creation and submission, upvote/like/favorite feature on recipes, meal planner, list export
 ### Technologies
-Include Technologies here
+Java/spring, MySQL, React
 ### What I'll Have to Learn
-Include what you will need to learn here
+React, API usage, how to integrate a springboot/java back end with a react front end.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/GJOpWV6A/launchcode-liftoff
